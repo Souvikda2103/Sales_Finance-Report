@@ -69,4 +69,4 @@ Purpose & Impact:
 
 🔗 Project Links
       
-      📌 [Customer Performance Report](./Sales_Finance-Report/Sales_Finanace Report.pdf)
+      📌 [Customer Performance Report](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Sales_Finanace%20Report.pdf)
