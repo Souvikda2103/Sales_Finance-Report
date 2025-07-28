@@ -69,4 +69,4 @@ Purpose & Impact:
 
 🔗 Project Links: 
 
-    [Sales_Finance-Report][(https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Sales_Finanace%20Report.pdf)
+[Sales_Finance-Report][(https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Sales_Finanace%20Report.pdf)
