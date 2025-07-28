@@ -68,4 +68,5 @@ Purpose & Impact:
     📂 Excel Workbooks: Cleaned datasets, P&L models, and validation sheets
 
 🔗 Project Links: 
-[Sales_Finance-Report][(https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Sales_Finanace%20Report.pdf)
+
+    [Sales_Finance-Report][(https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Sales_Finanace%20Report.pdf)
