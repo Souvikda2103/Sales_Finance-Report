@@ -67,8 +67,6 @@ Purpose & Impact:
 
     📂 Excel Workbooks: Cleaned datasets, P&L models, and validation sheets
 
-Got it! Here is a clean, well-formatted list of your project links only, with proper clickable Markdown links for easy sharing or presentation:
-
 🔗 Project Links
 
 - [India Sales](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/India_Sales.pdf)  
