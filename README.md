@@ -67,23 +67,18 @@ Purpose & Impact:
 
     📂 Excel Workbooks: Cleaned datasets, P&L models, and validation sheets
 
-🔗 Project Links: 
+Got it! Here is a clean, well-formatted list of your project links only, with proper clickable Markdown links for easy sharing or presentation:
 
-[India Sales]([https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/India_Sales.pdf](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/India_Sales.pdf))
+🔗 Project Links
 
-[Monthly Performance Vs Target]([https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Monthly%20Performance%20Vs%20Target.pdf](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Monthly%20Performance%20Vs%20Target.pdf))
+- [India Sales](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/India_Sales.pdf)  
+- [Monthly Performance Vs Target](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Monthly%20Performance%20Vs%20Target.pdf)  
+- [Top 10 Products](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Top%2010%20Products.pdf)  
+- [Top Bottom Products](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Top_Bottom_Products.pdf)  
+- [Top 5 Country-2021](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Top%205%20Country-2021.pdf)  
+- [P&L Year](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/P%26L%20Year.pdf)  
+- [P&L Months](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/P%26L%20Months.pdf)  
+- [P&L Markets](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/P%26L%20Months.pdf)  
+- [GM% Quarters](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/GM%25_Quarters.pdf)  
 
-[Top 10 Products]([https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Top%2010%20Products.pdf](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Top%2010%20Products.pdf))
-
-[Top Bottom Products]([https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Top_Bottom_Products.pdf](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Top_Bottom_Products.pdf))
-
-[Top 5 Country-2021]([https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Top%205%20Country-2021.pdf](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/Top%205%20Country-2021.pdf))
-
-[P&L Year]([https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/P%26L%20Year.pdf](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/P%26L%20Year.pdf))
-
-[P&L Months]([https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/P%26L%20Months.pdf](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/P%26L%20Months.pdf))
-
-[P&L Markets]([https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/P%26L%20Markets.pdf](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/P%26L%20Months.pdf))
-
-[GM% Quarters]([https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/GM%25_Quarters.pdf](https://github.com/Souvikda2103/Sales_Finance-Report/blob/main/GM%25_Quarters.pdf))
 
